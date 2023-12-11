@@ -1,17 +1,16 @@
-## 🥷 Digital Ninja
+## 🥷 Luis Alcaras
 
 #### 🗡 About me...
-🥷🏽 I am **Luis**, a **JavaScript Engineer** with **5 years** of experience.
+🥷🏽 I am a **JavaScript Engineer** with **6 years** of experience.
 
-🚂 I am currently collaborating with @Improving supporting a startup in the health field, creating amazing things with **React**, **Express** and **MongoDB**.
+🚂 I am currently collaborating with [Improving](https://www.improving.com/) supporting a startup in the health field, creating amazing things with **React**, **Express** and **MongoDB**.
 
-🐧 I am a big fan of **Linux**, I am constantly writing code in **Python** to extend the functionalities of **Qtile**, my window manager, although I like to keep it minimalist. _I use **[Arch](https://archlinux.org/)** BTW_.
+🐧 I am a big fan of **Linux**, I am constantly writing code in **Lua** to extend the functionalities of **AwesomeWM**, my window manager, although I like to keep it minimalist. _I use **[Arch](https://archlinux.org/)** BTW_.
 
 #### 💪 You can ask me about...
-- **Languages:** JavaScript · TypeScript · Lua · Python · Bash 
-- **Libraries:** React · Express
-- **Frameworks:** Angular
-- **Other tools:** Git · Linux · Figma · Nginx · MongoDB
+- **Languages:** JavaScript · TypeScript · Lua · Python · Bash · Rust
+- **Libraries and Frameworks:** Angular · NestJS · Next.js
+- **Other tools:** Git · Linux · Figma · Nginx · MongoDB · Amazon Web Services
 
 #### 🤡 Fun fact...
 _I listen to J-POP while writing code..._ I like anime BTW ♥️.
