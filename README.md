@@ -12,8 +12,9 @@
 - **Libraries and Frameworks:** Angular · NestJS · Next.js
 - **Other tools:** Git · Linux · Figma · Nginx · MongoDB · Amazon Web Services
 
-#### 🤡 Fun fact...
-_I listen to J-POP while writing code..._ I like anime BTW ♥️.
+#### Music..
+_I listen to J-POP while writing code..._ I like anime BTW 
+AMO A MI ESPOSA!!♥️.
 
 #### 🔎 You can find me on...
 
